@@ -2,6 +2,12 @@
 
 A modern, responsive news dashboard built with Next.js, TypeScript, and Tailwind CSS. This application provides a personalized news experience with user authentication and customizable news feeds.
 
+![image](https://github.com/user-attachments/assets/215bb1dd-524f-4e0f-9634-66da65203e81)
+
+![image](https://github.com/user-attachments/assets/c5f05bae-5012-4465-990f-61ddeba60985)
+
+
+
 ## Features
 
 - 🔐 User Authentication with NextAuth.js
