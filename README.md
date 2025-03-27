@@ -143,14 +143,15 @@ Before you begin, ensure you have the following installed:
 
 ```
 news-dashboard/
-├── app/                 # Next.js app directory
-├── components/         # Reusable UI components
-├── lib/               # Utility functions and configurations
+├── src/                # Source directory
+│   ├── app/           # Next.js app directory
+│   ├── components/    # Reusable UI components
+│   ├── lib/           # Utility functions and configurations
+│   ├── hooks/         # Custom React hooks
+│   ├── styles/        # Global styles
+│   └── types/         # TypeScript type definitions
 ├── prisma/            # Database schema and migrations
 ├── public/            # Static assets
-├── styles/            # Global styles
-├── types/             # TypeScript type definitions
-└── hooks/             # Custom React hooks
 ```
 
 ## Available Scripts
